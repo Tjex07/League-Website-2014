@@ -1,0 +1,175 @@
+body
+	{
+	background-color:black ;
+	color:black;
+	margin-bottom:0px;
+	}
+	
+#wrapper
+	{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	background-color: #1A6B66;
+	min-width: 960px;
+	padding-bottom:50px;
+	
+	color:#190C4F;
+	
+	}
+
+	
+	h1
+		{
+		background-image:url('Garen1.jpg');
+		height: 100px;
+		background-repeat: no-repeat;
+		background-position:center;
+		text-indent: -9999px;
+		margin:-8px 0px 0px -1px;
+		padding:80px;
+		
+		}
+		
+	h4
+		{
+		background-image:url('lol.jpg');
+		height: 100px;
+		background-repeat: no-repeat;
+		background-position:center;
+		text-indent: -9999px;
+		margin-left:170px;
+		margin-right:170px;
+		padding:100px;
+		background-color:black;
+		margin-top:0px;
+		margin-bottom:0px;
+		
+		}
+	
+	#content
+		{
+		text-align:left;
+		color:#black;
+		font-family:"impact";
+		font-size:120%;
+		margin-left:170px;
+		margin-right:170px;
+
+		}
+		
+p
+	{
+	margin-left:170px;
+	text-indent:50px;
+	}
+		
+h6
+	{
+	padding:0px;
+	margin:0px;
+	margin-left:50px;
+	font-family:"friz quadrata";
+	font-size:300%;
+	color:#ccac00;
+	text-shadow:4px 4px blue;
+	}
+	
+h2
+	{
+	clear:float;
+	margin-left:170px;
+	}
+	
+nav
+	{
+	float:left;
+	width:160px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom:50px;
+	padding-right:30px;
+	margin-left:-20px;
+	}
+	
+
+	
+	
+ul
+	{
+	Color:#15DBE6;
+	}
+	
+ul span
+	{
+	list-style-type:none;
+	font-size: 120%;
+	}
+	
+	
+li 
+	{
+  color: #15DBE6; /* bullet color */
+	}
+li span 
+	{
+  color: #D0C4F2; /* text color */
+	}
+	
+img 
+	{
+	margin-left:0px;
+	padding:0px;
+	}
+
+
+#img src
+	{
+	margin:0;
+	}
+	
+nav a
+	{
+	color:#ccac00  ;
+	text-decoration:none;
+	font-size:130%;
+	text-shadow:2px 2px #3A3152;
+	display:block;
+	}
+	
+
+input
+	{
+	text-align:left;
+	}
+
+#article
+	{
+	color:3D8EFF;
+	}
+
+table
+	{
+	margin-left:170px;
+	margin-right:170px;
+	font-family:"Times new roman";
+	color:#black;
+	background-color:#ccac00;
+	}
+	
+form
+	{
+	
+	color:#ccac00;
+	margin-left:170px;
+	text-shadow:2px 2px blue;
+	float:left
+	}
+	
+h5
+	{
+	margin-right:500px;
+	margin-top: 0px;
+	
+	font-size:800%;
+	}

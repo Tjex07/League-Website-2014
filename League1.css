@@ -1,0 +1,163 @@
+body
+	{
+	background-color:#505050 ;
+	color:#black;
+	margin-bottom:0px;
+	}
+	
+#wrapper
+	{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	background-color: #a0a0a0;
+	min-width: 960px;
+	padding:0px 0px 50px 0px;
+	margin-bottom:0px;
+	
+	}
+
+p
+	{
+	margin-left:170px;
+	text-indent:50px;
+	}
+	
+	h1
+		{
+		background-image:url('warwick-feral1.jpg');
+		height: 100px;
+		background-repeat: no-repeat;
+		background-position:center;
+		text-indent: -9999px;
+		margin:-8px -8px 0px -8px;
+		padding:80px;
+		
+		
+		}
+		
+	h4
+		{
+		background-image:url('lol.jpg');
+		height: 100px;
+		background-repeat: no-repeat;
+		background-position:center;
+		text-indent: -9999px;
+		margin-left:170px;
+		margin-right:170px;
+		padding:100px;
+		background-color:black;
+		margin-top:0px;
+		margin-bottom:0px;
+		
+		}
+	
+	#content
+		{
+		text-align:left;
+		color:#black;
+		font-family:"impact";
+		font-size:120%;
+		margin-left:170px;
+		margin-right:170px;
+
+		}
+		
+h6
+	{
+	padding:0px;
+	margin:0px;
+	margin-left:50px;
+	font-family:"friz quadrata";
+	font-size:300%;
+	text-shadow:2px 2px #565BE8;
+	}
+	
+h2
+	{
+	clear:float;
+	margin-left:170px;
+	}
+	
+nav
+	{
+	float:left;
+	width:160px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom:50px;
+	padding-right:10px;
+	}
+	
+
+	
+	
+ul
+	{
+	text-decoration:none;
+	list-style-type:none;
+	padding: 0px;
+	font-size: 1.2em;
+	}
+	
+img 
+	{
+	padding:0px;
+	}
+
+
+#img src
+	{
+	margin:0;
+	}
+	
+nav a
+	{
+	color:#ccac00  ;
+	text-decoration:none;
+	font-size:130%;
+	text-shadow:2px 2px black;
+	display:block;
+	}
+	
+input
+	{
+	text-align:left;
+	}
+
+#article
+	{
+	color:3D8EFF;
+	}
+
+table
+	{
+	margin-left:170px;
+	
+	font-family:"Times new roman";
+	color:#a0a0a0;
+	background-color:#505050;
+	}
+	
+select
+	{	
+	clear:right;
+	background-color:#505050;
+	color:#a0a0a0;
+	clear:left;
+	margin-top:-36px;
+	margin-left: 170;
+	}
+
+text
+	{ 
+	font-family:georgia;
+	font-size:200%;
+	margin-left:170px;
+	color:#505050;
+	}
+
+form
+	{
+	margin-left:170px;
+	}

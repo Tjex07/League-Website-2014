@@ -1,0 +1,168 @@
+body
+	{
+	background-color:#138F6A ;
+	color:black;
+	margin-bottom:0px;
+	}
+	
+#wrapper
+	{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	background-color: black;
+	min-width: 960px;
+	padding-bottom:50px;
+	
+	color:#2E8B57;
+	
+	}
+
+	
+	h1
+		{
+		background-image:url('fiddlesticks1.jpg');
+		height: 100px;
+		background-repeat: no-repeat;
+		background-position:center;
+		text-indent: -9999px;
+		margin:-8px 0px 0px -1px;
+		padding:80px;
+		
+		}
+		
+	h4
+		{
+		background-image:url('lol.jpg');
+		height: 100px;
+		background-repeat: no-repeat;
+		background-position:center;
+		text-indent: -9999px;
+		margin-left:170px;
+		margin-right:170px;
+		padding:100px;
+		background-color:black;
+		margin-top:0px;
+		margin-bottom:0px;
+		
+		}
+	
+	#content
+		{
+		text-align:left;
+		color:#black;
+		font-family:"impact";
+		font-size:120%;
+		margin-left:170px;
+		margin-right:170px;
+
+		}
+		
+p
+		{
+		text-indent:50px;
+		margin-left:170px;
+		}
+		
+h6
+	{
+	padding:0px;
+	margin:0px;
+	margin-left:50px;
+	font-family:"friz quadrata";
+	font-size:300%;
+	color:#blue;
+	text-shadow:2px 2px #ccac00;
+	}
+	
+h2
+	{
+	clear:float;
+	margin-left:170px;
+	}
+	
+nav
+	{
+	float:left;
+	width:160px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom:50px;
+	padding-right:30px;
+	margin-left:-20px;
+	}
+	
+
+	
+	
+ul
+	{
+	Color:#15DBE6;
+	}
+	
+ul span
+	{
+	list-style-type:none;
+	font-size: 120%;
+	}
+	
+	
+li 
+	{
+  color: #15DBE6; /* bullet color */
+	}
+li span 
+	{
+  color: #D0C4F2; /* text color */
+	}
+	
+img 
+	{
+	margin-left:0px;
+	padding:0px;
+	}
+
+
+#img src
+	{
+	margin:0;
+	}
+	
+nav a
+	{
+	color:#ccac00  ;
+	text-decoration:none;
+	font-size:130%;
+	text-shadow:2px 2px #3A3152;
+	display:block;
+	}
+	
+
+input
+	{
+	text-align:left;
+	}
+
+#article
+	{
+	color:3D8EFF;
+	}
+
+table
+	{
+	margin-left:170px;
+	margin-right:170px;
+	font-family:"Times new roman";
+	color:#000073;
+	background-color:#2E8B57;
+	
+	}
+	
+select
+	{
+	font-size:200%;
+	color:#ccac00;
+	font-family:impact;
+	background-color:#2E8B57;
+	margin-left:270px
+	}
